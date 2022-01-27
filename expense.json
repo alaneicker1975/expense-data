@@ -1,1 +1,21 @@
-[]
+[
+  [
+    "Jan 1, 2022 - Jan 15, 2022",
+    6000,
+    { "label": "Mortgage", "amount": 1995.52 },
+    { "label": "Day Care", "amount": 1800.45 },
+    { "label": "Groceries", "amount": 400 },
+    { "label": "Utilities", "amount": 550 },
+    { "label": "Cars", "amount": 750 }
+  ],
+  [
+    "Jan 15, 2022 - Jan 31, 2022",
+    6000,
+    { "label": "Mortgage", "amount": 1995.52 },
+    { "label": "Day Care", "amount": 1800.45 },
+    { "label": "Groceries", "amount": 400 },
+    { "label": "Utilities", "amount": 550 },
+    { "label": "Cars", "amount": 750 },
+    { "label": "Window Repair", "amount": 2500 }
+  ]
+]
